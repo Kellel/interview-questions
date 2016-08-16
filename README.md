@@ -103,7 +103,7 @@ one",
     "userId": 1
 }
 ```
-```
+
 ## cache-debugging-problem
 A simple python debugging problem for interviews
 
