@@ -8,6 +8,7 @@ Create a salt execution module that returns data on all disk present on a device
 'blocks': '125034840', 
 'minor-device': '0'
 ```
+Check out https://docs.saltstack.com/en/latest/topics/grains/#writing-grains for the docs and http://pyholodeck.readthedocs.io/en/latest/first_module.html for an example
 
 ## Rest Cli
 Create a simple cli to pull data from a 3rd party rest api (you may use any you like, but in this example I will be using https://jsonplaceholder.typicode.com/)
